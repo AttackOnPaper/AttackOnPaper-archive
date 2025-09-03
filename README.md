@@ -1,4 +1,4 @@
-# AttackOnPaper 進擊的線稿 : <br>Real-World to Line Art Animation with Computer Vision
+## AttackOnPaper 進擊的線稿 : <br>Real-World to Line Art Animation with Computer Vision
 
 > Turn real-world videos into animated line drawings using edge detection and other py code!
 
@@ -48,8 +48,6 @@ To be continued...
 https://123456dr.github.io/AttackOnPaper
 
 <br><br><br><br>
-🙌 Thanks for checking it out! 👾  
-If you like sketch-style AI animations or want to contribute, feel free to fork or reach out!
 
 
 ---
